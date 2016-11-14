@@ -1,0 +1,7 @@
+CTRL+C:Copy
+CTRL+X:Cut
+CTRL+V:Paste
+CTRL+Z:Undo
+CTRL+B:Bold
+CTRL+U:Underline
+CTRL+I:Italic

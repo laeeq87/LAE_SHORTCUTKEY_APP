@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FileStorage</string>
+
+    <string-array name="titles">
+        <item>General Shortcuts</item>
+        <item>MS Basic Shortcuts</item>
+        <item>General Keyboard</item>
+    </string-array>
+
+</resources>

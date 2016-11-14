@@ -1,0 +1,6 @@
+Alt-F10:Application Windows Maximize
+Alt-Shift-F6:Application Window-Previous
+Alt-f5:Application Windows Restore
+Ctrl-Alt-K:Auto Format
+Alt-F3:Auto Text Create
+Ctrl-Alt-V:Auto Insert Entry

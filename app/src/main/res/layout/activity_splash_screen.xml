@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splash_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#212F3C"
+    tools:context="example.itsme.filestorage.SplashScreen">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/csklogo"
+        android:layout_marginTop="32dp"
+        android:id="@+id/imageView2"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Computer Shortcut Keys"
+        android:textColor="#F8F9F9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ssTitle"
+        android:textSize="25dp"
+        android:layout_marginTop="29dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/imageView2"
+        android:typeface="monospace"/>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/dg"
+        android:layout_below="@id/ssTitle"
+        android:layout_marginTop="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="109dp"
+        android:id="@+id/dgaps" />
+</RelativeLayout>

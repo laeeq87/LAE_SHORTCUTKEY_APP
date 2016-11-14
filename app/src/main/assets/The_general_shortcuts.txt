@@ -1,0 +1,20 @@
+CTRL + C:Copy
+CTRL + X:Cut
+CTRL + V:Paste
+CTRL + Z:Undo
+DELETE:Delete
+Shift + Delete:Delete the Selected Item permanently without Placing the Item in the Recycle Bin
+CTRL while dragging an item:Copy the Selected Item
+CTRL+Shift while dragging an Item:Create a Shortcut to the Selected Item
+F2 key:Rename the Selected Item
+CTRL +RIGHT ARROW:Move the Insertion Point to the beginning of the next word
+CTRL+LEFT ARROW:Move the insertion Point to the beginning of the previous word
+CTRL+UP ARROW:Move the Insertion Point to the beggning of the Previous Paragraph
+CTRL+DOWN ARROW:Move the Insertion Point to the beggning of the next Paragraph
+CTRL+Shift with any of arrow keys:Highlight a block of text
+Shift with any of the arrow keys:Select more then one Item in a window or on the desktop,or select text in a document
+CTRL+A:Search for a file or a Folder
+f3 key:View the Properties for the selected Item
+Alt+Enter:Close the active Item or quit the active Program
+Alt+F4:Cancel the Current task
+ESC:Cancel the Current task
